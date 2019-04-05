@@ -1,6 +1,6 @@
 /*
-*Name - Nikhil Ranjan Nayak
-*Regd No - 1641012040
+*Name - Aman kumar das
+*Regd No - 1641012072
 *Desc -	Binary exploitation
 *	Compile without stack protection : gcc prog.c -fno-stack-protector
 *					   gcc prog.c gcc -fstack-protector-all
